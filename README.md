@@ -1,5 +1,6 @@
 # Sign-language-dtection
-Steps followed:-
+# Steps followed:-
+
 a) Prepare Image labels using labelling 
 b) Transfer learning using SSD MobileNet.
 c) Real Time detection using a webcam and a openCV.
